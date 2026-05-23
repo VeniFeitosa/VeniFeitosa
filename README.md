@@ -1,58 +1,62 @@
-# Olá, eu sou o Venicius Feitosa!
-
-<div align="center">
-  <h3>Desenvolvedor Front-end | React & TypeScript | Node.js |</h3>
-  <p>Construindo interfaces escaláveis, performáticas e com forte visão analítica.</p>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=75&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
----
+###
 
-## Sobre mim
+<h1 align="left">Olá, eu sou Venicius Feitosa!</h1>
 
-Sou um desenvolvedor focado em resultados, unindo uma sólida base teórica em **Algoritmos e Teoria dos Grafos** à vivência prática do mercado corporativo. 
+###
 
--  **Experiência:** 2 anos atuando no desenvolvimento e arquitetura de SPAs complexas, do planejamento à resolução de bugs críticos em produção.
--  **Formação:** Graduando em Sistemas de Informação na Universidade Federal do Ceará (UFC), com pesquisa focada em heurísticas de coloração em grafos.
--  **Foco técnico:** Clean Code, refatoração de componentes, consumo robusto de APIs, gerenciamento de estado e testes automatizados.
--  **Soft Skills:** Comunicação didática e facilidade para atuar em metodologias ágeis e Code Reviews construtivos.
+<p align="left">Desenvolvedor Front-end com 2 anos de experiência prática no desenvolvimento de aplicações web escaláveis<br>utilizando React.js, TypeScript e Next.js. Experiência com SPAs, consumo de APIs REST e GraphQL,<br>componentização, performance, acessibilidade e manutenção de sistemas em produção. Atuação em times ágeis<br>utilizando Git/GitHub, Scrum e code review. Conhecimento em testes unitários com Jest e Testing Library, React<br>Query, Context API e otimização de aplicações.<br><br>- Experiência: 2 anos atuando no desenvolvimento e arquitetura de SPAs complexas, do planejamento à resolução de bugs críticos em produção.<br>- Formação: Graduando em Sistemas de Informação na Universidade Federal do Ceará (UFC), com pesquisa focada em heurísticas de coloração em grafos.<br>- Foco técnico: Clean Code, refatoração de componentes, consumo robusto de APIs, gerenciamento de estado e testes automatizados.<br>- Soft Skills: Comunicação didática e facilidade para atuar em metodologias ágeis e Code Reviews construtivos.</p>
 
----
+###
 
-## Tecnologias e Ferramentas
+<h2 align="left">Tecnologias e Ferramentas</h2>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <br>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="50" alt="materialui logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" height="50" alt="graphql logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="50" alt="nodejs logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="50" alt="jest logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
 </div>
 
----
+###
 
-## Minhas Estatísticas
+<h2 align="left">Vamos nos conectar!</h2>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VeniFeitosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeniFeitosa&layout=compact&langs_count=7&theme=dracula"/>
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="50" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="50" alt="gmail logo"  />
 </div>
 
----
+###
 
-## Vamos nos conectar!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VeniFeitosa/VeniFeitosa/pacman-output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VeniFeitosa/VeniFeitosa/pacman-output/bomberman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VeniFeitosa/VeniFeitosa/pacman-output/bomberman-contribution-graph.svg">
+</picture>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/venicius-feitosa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:venifeitosa@alu.ufc.br">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+###
